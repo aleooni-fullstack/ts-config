@@ -1,0 +1,21 @@
+{
+  "name": "@aleodoni-fullstack/ts-config",
+  "version": "1.0.0",
+  "private": false,
+  "description": "Typescript configuration used by aleodoni.",
+  "main": "index.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aleooni-fullstack/ts-config.git"
+  },
+  "peerDependencies": {
+    "typescript": ">=4"
+  },
+  "peerDependenciesMeta": {
+    "typescript": {
+      "optional": true
+    }
+  },
+  "dependencies": {}
+}
